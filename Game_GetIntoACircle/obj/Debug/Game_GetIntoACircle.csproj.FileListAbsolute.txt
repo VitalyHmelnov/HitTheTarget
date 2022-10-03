@@ -1,0 +1,10 @@
+C:\Users\vitkh\source\repos\Game_GetIntoACircle\Game_GetIntoACircle\bin\Debug\Game_GetIntoACircle.exe.config
+C:\Users\vitkh\source\repos\Game_GetIntoACircle\Game_GetIntoACircle\bin\Debug\Game_GetIntoACircle.exe
+C:\Users\vitkh\source\repos\Game_GetIntoACircle\Game_GetIntoACircle\bin\Debug\Game_GetIntoACircle.pdb
+C:\Users\vitkh\source\repos\Game_GetIntoACircle\Game_GetIntoACircle\obj\Debug\Game_GetIntoACircle.csprojAssemblyReference.cache
+C:\Users\vitkh\source\repos\Game_GetIntoACircle\Game_GetIntoACircle\obj\Debug\Game_GetIntoACircle.Form1.resources
+C:\Users\vitkh\source\repos\Game_GetIntoACircle\Game_GetIntoACircle\obj\Debug\Game_GetIntoACircle.Properties.Resources.resources
+C:\Users\vitkh\source\repos\Game_GetIntoACircle\Game_GetIntoACircle\obj\Debug\Game_GetIntoACircle.Resource1.resources
+C:\Users\vitkh\source\repos\Game_GetIntoACircle\Game_GetIntoACircle\obj\Debug\Game_GetIntoACircle.csproj.GenerateResource.cache
+C:\Users\vitkh\source\repos\Game_GetIntoACircle\Game_GetIntoACircle\obj\Debug\Game_GetIntoACircle.exe
+C:\Users\vitkh\source\repos\Game_GetIntoACircle\Game_GetIntoACircle\obj\Debug\Game_GetIntoACircle.pdb
